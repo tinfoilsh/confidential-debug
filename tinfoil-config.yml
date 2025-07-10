@@ -1,0 +1,7 @@
+cvm-version: 0.4.0
+cpus: 8
+memory: 2048
+
+shim:
+  listen-port: 443
+  upstream-port: 8080
