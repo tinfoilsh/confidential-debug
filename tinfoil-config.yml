@@ -3,8 +3,8 @@ cvm-version: 0.5.11
 cpus: 4
 memory: 4096
 platform: mini_0d_amd
-cvmimage-version: cvmimage-v0.0.3
-stage0-version: stage0-v0.0.1
+cvmimage-version: cvmimage-v0.0.5
+stage0-version: stage0-v0.0.2
 
 shim:
   listen-port: 443
