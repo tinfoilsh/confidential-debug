@@ -2,6 +2,9 @@ shim-version: v0.3.10@sha256:825cfafbc6dde8967ac60e44264f4686fcf2ed33fae112ab4b1
 cvm-version: 0.5.23
 cpus: 4
 memory: 4096
+platform: mini_0d_amd
+cvmimage-version: cvmimage-v0.0.7
+stage0-version: stage0-v0.0.4
 
 shim:
   listen-port: 443
