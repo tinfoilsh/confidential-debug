@@ -1,4 +1,4 @@
-shim-version: v0.3.15@sha256:fbb08eff2b332098751f02c5829531cdcda5a30820370d58cb201a6c6215e59a
+shim-version: v0.3.17@sha256:6dff221ec3c4de5c4f44472bc21b47574b7d118902aaa0a55fd367eeaa1f33c5
 cvm-version: 0.6.7
 cpus: 4
 memory: 8192
