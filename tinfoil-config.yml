@@ -1,7 +1,4 @@
-cvm-version: 0.7.5
-cpus: 4
+containers: []
 memory: 8192
-
-shim:
-  upstream-port: 8080
-  tls-mode: self-signed
+cpus: 8
+gpus: 0
